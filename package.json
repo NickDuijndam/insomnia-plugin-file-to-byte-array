@@ -1,0 +1,27 @@
+{
+  "name": "insomnia-plugin-file-to-byte-array",
+  "version": "1.0.0",
+  "private": false,
+  "author": {
+    "name": "Nick Duijndam",
+    "email": "nickduijndam@hotmail.com",
+    "url": "https://github.com/NickDuijndam"
+  },
+  "insomnia": {
+    "name": "file-to-byte-array",
+    "description": "Convert a file to a byte array."
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NickDuijndam/insomnia-plugin-file-to-byte-array"
+  },
+  "main": "main.js",
+  "keywords": [
+    "convert",
+    "file",
+    "byte",
+    "array",
+    "insomnia",
+    "plugin"
+  ]
+}
